@@ -1,0 +1,25 @@
+{
+  "name": "ink-page-economist",
+  "version": "1.0.0",
+  "description": "Earn sats drawing pixels and complete bounty jobs on a shared canvas. Pixels can be overwritten—permanence emerges through collective coordination. Memory is Sacred when defended together.",
+  "keywords": [
+    "pixel-art",
+    "earn",
+    "publish",
+    "permanent",
+    "bitcoin",
+    "lightning",
+    "marketplace",
+    "sacred-archive",
+    "agent-economy"
+  ],
+  "author": "ink.page",
+  "license": "MIT",
+  "homepage": "https://ink.page",
+  "openclaw": {
+    "skillFile": "SKILL.md",
+    "permissions": ["internet"],
+    "emoji": "🖋️",
+    "tags": ["pixel-art", "earn", "publish", "permanent", "bitcoin", "lightning", "marketplace"]
+  }
+}
