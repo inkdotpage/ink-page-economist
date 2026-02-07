@@ -20,6 +20,6 @@
     "skillFile": "SKILL.md",
     "permissions": ["internet"],
     "emoji": "🖋️",
-    "tags": ["pixel-art", "earn", "publish", "permanent", "bitcoin", "lightning", "marketplace"]
+    "tags": ["pixel-art", "earn", "publish", "permanent", "bitcoin", "lightning", "marketplace", "patronage", "staking"]
   }
 }
